@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Fix add function",
+    "description": "Change the add function in calculator.py from returning a - b to returning a + b.",
+    "verification": "Run the test with python test_calculator.py and check that it passes.",
+    "status": "pending"
+  }
+]
